@@ -1,0 +1,118 @@
+BURNING FIRE - PRIVACY POLICY
+
+Effective date: 25 November 2026
+
+
+1. INTRODUCTION
+
+This Privacy Policy explains what information MOCHIGAMES COMPANY LIMITED ("we", "us") collects when you play Burning Fire (Android package com.mochi.games.bigger.fire.idle.miner, the "Game"), how we use it, and the choices you have.
+
+- Effective date: 25 November 2026
+- Developer: MOCHIGAMES COMPANY LIMITED, House No. 1, Lane 18, Alley 514, Tran Cung Street, Xuan Dinh Ward, Ha Noi, Vietnam
+- Contact: mochigames.coltd@gmail.com
+
+The Game does not require an account. We do not ask for your name, email address, phone number or precise location.
+
+
+2. INFORMATION WE COLLECT
+
+We and our service providers collect the following information automatically when you use the Game:
+
+- Device and app information: device model, operating system and version, app version, language, country/region derived from IP address, screen size. Source: Game, Firebase, AdMob, Meta SDK.
+- Identifiers: Advertising ID (Google Advertising ID), app set ID, Firebase installation ID, IP address. Source: Game SDKs.
+- Gameplay and usage events: sessions, play time, levels and laps reached, upgrades, tutorial progress, ad views, notification opens. Source: Firebase Analytics, Meta SDK.
+- Advertising data: ads requested and shown, ad clicks, ad revenue, consent choices. Source: AdMob and its mediation partners.
+- Purchase information: product purchased, price, currency, order status. Payment details are handled by Google Play; we never receive your card number. Source: Google Play Billing.
+- Diagnostics: errors and performance data. Source: Unity, Firebase.
+
+Your game progress is saved on your device. If you uninstall the Game, this local progress is deleted.
+
+
+3. HOW WE USE INFORMATION
+
+We use the information above to:
+
+- Run the Game and save your progress on your device
+- Show ads, including personalized ads where you have consented, and measure how ads perform
+- Understand how players use the Game so we can fix problems and improve it
+- Adjust game settings remotely, such as how often ads appear (Firebase Remote Config)
+- Process in-app purchases and restore purchases such as Remove Ads
+- Send local notifications on your device, if you allow them
+- Measure the results of our marketing campaigns
+- Detect fraud, invalid ad traffic and abuse
+
+We do not sell your personal information for money. Sharing data with advertising partners for personalized ads may count as a "sale" or "sharing" under some US state laws; see section 8 for your choices.
+
+
+4. THIRD-PARTY SERVICES
+
+The Game uses the following services. Each collects data under its own privacy policy.
+
+- Google AdMob - advertising and ad measurement - https://policies.google.com/privacy
+- Google Firebase (Analytics, Remote Config) - usage analytics and remote settings - https://firebase.google.com/support/privacy
+- Google Play Billing - in-app purchases - https://policies.google.com/privacy
+- Meta (Facebook SDK) - measuring our ad campaigns on Meta - https://www.facebook.com/privacy/policy
+- Unity - game engine, diagnostics - https://unity.com/legal/privacy-policy
+- Unity Ads (via AdMob mediation) - advertising - https://unity.com/legal/privacy-policy
+- ironSource Ads (via AdMob mediation) - advertising - https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+- Pangle (via AdMob mediation) - advertising - https://www.pangleglobal.com/privacy
+
+Through AdMob mediation, ad requests may be passed to Unity Ads, ironSource Ads and Pangle, and to other advertising partners listed in our consent message. These partners are included in our consent form and in our app-ads.txt file, which lists the sellers authorized to sell ads in the Game.
+
+
+5. ADVERTISING AND YOUR CHOICES
+
+The Game is free and supported by ads (banner and full-screen ads).
+
+- Consent (EEA, UK, Switzerland): before ads load, we ask for your consent using Google's consent tool (UMP, IAB TCF). You can accept, or choose which purposes and partners to allow. If you do not consent to personalized ads, you may still see non-personalized or limited ads.
+- Change your choice: use the privacy settings shown when you first open the Game. To see them again, clear the Game's data in your device settings and reopen the Game, or contact us.
+- Advertising ID: you can reset your Advertising ID or delete it in your device settings (on most Android devices: Settings > Privacy > Ads). Apps then can no longer use it for personalized ads.
+- Remove Ads: buying Remove Ads turns off banner and full-screen ads. Optional ads that give a reward, if offered, stay available.
+
+
+6. LEGAL BASES AND INTERNATIONAL TRANSFERS
+
+If you are in the EEA, UK or Switzerland, we rely on these legal bases under the GDPR:
+
+- Running the Game, saving progress, processing purchases: performance of a contract
+- Personalized ads, storing or reading information on your device: your consent
+- Analytics, fixing bugs, preventing fraud and invalid traffic: our legitimate interests
+- Keeping purchase records: legal obligation
+
+Our service providers may process data in countries outside your own, including the United States. Where required, these transfers rely on safeguards such as the European Commission's Standard Contractual Clauses or an adequacy decision.
+
+
+7. DATA RETENTION AND SECURITY
+
+- Game progress: stored only on your device until you uninstall the Game or clear its data.
+- Analytics data (Firebase): kept for the period set in our analytics settings (2 to 14 months), then deleted or aggregated.
+- Advertising data: kept by each ad partner according to its own policy.
+- Purchase records: kept as long as tax and accounting laws require.
+
+Data is sent to our providers over encrypted connections (HTTPS). No method of storage or transmission is completely secure, but we and our providers use reasonable measures to protect it.
+
+
+8. YOUR RIGHTS
+
+EEA, UK and Switzerland (GDPR): you can ask to access, correct or delete your data, restrict or object to its use, receive a copy (portability), and withdraw consent at any time without affecting earlier processing. You can also complain to your local data protection authority.
+
+United States (California and other states with privacy laws): you can ask to know what personal information we collect, ask us to delete it, and opt out of the "sale" or "sharing" of personal information for targeted advertising. We do not discriminate against you for using these rights.
+
+How to contact us about your rights: email mochigames.coltd@gmail.com with the subject "Privacy request". The Game has no accounts and we do not link the data it collects to your name or other identity, so in most cases we cannot single out your data. To stop data collection, uninstall the Game; this also deletes your progress stored on your device. You can also reset or delete your Advertising ID in your device settings, so ad partners can no longer link new data to past activity.
+
+You can opt out of personalized ads at any time by changing your choice in the Game's privacy settings, or by deleting your Advertising ID in your device settings.
+
+
+9. CHILDREN'S PRIVACY
+
+The Game is not directed to children under 13 (or the minimum age in your country, such as 16 in some EEA countries). We do not knowingly collect personal information from children. If you believe a child has used the Game and shared data with us, contact mochigames.coltd@gmail.com and we will take appropriate steps.
+
+
+10. CHANGES AND CONTACT
+
+We may update this Privacy Policy when the Game or the law changes. We will post the new version at this address and update the effective date. If the changes are significant, we will also tell you in the Game.
+
+Questions or requests about your privacy:
+
+- Email: mochigames.coltd@gmail.com
+- Post: MOCHIGAMES COMPANY LIMITED, House No. 1, Lane 18, Alley 514, Tran Cung Street, Xuan Dinh Ward, Ha Noi, Vietnam
