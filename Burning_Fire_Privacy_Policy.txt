@@ -56,8 +56,9 @@ The Game uses the following services. Each collects data under its own privacy p
 - Unity Ads (via AdMob mediation) - advertising - https://unity.com/legal/privacy-policy
 - ironSource Ads (via AdMob mediation) - advertising - https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
 - Pangle (via AdMob mediation) - advertising - https://www.pangleglobal.com/privacy
+- Liftoff (Vungle) (via AdMob mediation) - advertising - https://liftoff.io/privacy-policy/
 
-Through AdMob mediation, ad requests may be passed to Unity Ads, ironSource Ads and Pangle, and to other advertising partners listed in our consent message. These partners are included in our consent form and in our app-ads.txt file, which lists the sellers authorized to sell ads in the Game.
+Through AdMob mediation, ad requests may be passed to Unity Ads, ironSource Ads, Pangle and Liftoff, and to other advertising partners listed in our consent message. These partners are included in our consent form and in our app-ads.txt file, which lists the sellers authorized to sell ads in the Game.
 
 
 5. ADVERTISING AND YOUR CHOICES
