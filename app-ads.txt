@@ -10,6 +10,8 @@ unity.com, 145072601, DIRECT, 96cabb5fbdde37a7
 ironsrc.com, 678479, DIRECT
 # Pangle
 pangleglobal.com, 5045918, DIRECT
+# Liftoff (Vungle)
+vungle.com, 6b085dca2fe43182791c0838, DIRECT, c107d686becd2d77
 
 # ===== RESELLER (Google, Unity, ironSource, Pangle) =====
 adwmg.com, 159512, RESELLER, c9688a22012618e7
