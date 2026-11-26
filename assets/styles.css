@@ -72,11 +72,11 @@ section h2 { font-size: 2rem; margin: 0 0 12px; text-align: center; }
 .card-icon { font-size: 2rem; }
 
 /* Game card */
-.games-grid { grid-template-columns: repeat(auto-fit, minmax(260px, 340px)); justify-content: center; }
+.games-grid { grid-template-columns: repeat(auto-fit, minmax(260px, 320px)); justify-content: center; }
 .game-card { display: flex; flex-direction: column; gap: 12px; }
 .game-icon {
-  width: 88px; height: 88px; border-radius: 22px; display: grid; place-items: center; font-size: 2.6rem;
-  background: linear-gradient(135deg, #ff9a3c, #ff3d3d);
+  width: 88px; height: 88px; border-radius: 22px; object-fit: cover;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, .12);
 }
 .game-meta { font-size: .9rem; color: var(--muted); }
 .store-links { display: flex; gap: 10px; flex-wrap: wrap; margin-top: auto; }
